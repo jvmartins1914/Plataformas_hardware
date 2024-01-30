@@ -80,11 +80,9 @@ conteudo.concat(String(" 0"));
     delay(500);
     digitalWrite(ledRed, HIGH);
     delay(500);
-    //int tempo = 30000;
-   // tone(7,528,tempo);
+
     }
-    //int tempo = 30000;
-    //tone(7,528,tempo);
+
     erro = 0;
  }
 
